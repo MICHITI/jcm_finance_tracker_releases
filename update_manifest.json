@@ -1,0 +1,15 @@
+{
+  "version": "1.1.0",
+  "min_supported_version": "1.0.0",
+  "release_date": "2026-11-01",
+  "release_type": "patch",
+  "mandatory": false,
+  "download_url": "https://github.com/MICHITI/jcm_finance_tracker_releases/releases/download/v1.1.0/JMC_Finance_Tracker_Setup.exe",
+  "installer_url": "https://github.com/MICHITI/jcm_finance_tracker_releases/releases/download/v1.1.0/JMC_Finance_Tracker_Setup.exe",
+  "sha256": "ba4918df0c4fd1bfbaf2d332a1ffd64bbdd4beb67b048d4aa2d304c3fffa7927",
+  "release_notes": "• Fix Employee data synchronization across multiple computers\n• Automatic cloud sync and backfill for all existing and new employee profiles\n• Real-time refresh & Manual Sync button on Employee Management screen\n• Windows Desktop Auto Update System with SHA-256 verification\n• API Integration Status Dashboard with real-time connectivity probe\n• Automated SQLite pre-migration backup & database safety",
+  "installer_args": [
+    "/CLOSEAPPLICATIONS",
+    "/FORCECLOSEAPPLICATIONS"
+  ]
+}
