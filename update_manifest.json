@@ -1,17 +1,21 @@
 {
-  "version": "1.1.0",
-  "latest_version": "1.1.0",
-  "build_number": 2,
-  "min_supported_version": "1.0.0",
-  "release_date": "2026-11-01",
-  "release_type": "patch",
-  "mandatory": false,
-  "download_url": "https://github.com/MICHITI/jcm_finance_tracker_releases/releases/download/v1.1.0/JMC_Finance_Tracker_Setup.exe",
-  "installer_url": "https://github.com/MICHITI/jcm_finance_tracker_releases/releases/download/v1.1.0/JMC_Finance_Tracker_Setup.exe",
-  "sha256": "eafe76c7d46f6637b76c3a142d14893b5af28fbc01e2d424f8a922c24434717f",
-  "release_notes": "• Fix Employee data synchronization across multiple computers\n• Automatic cloud sync and backfill for all existing and new employee profiles\n• Real-time refresh & Manual Sync button on Employee Management screen\n• Windows Desktop Auto Update System with SHA-256 verification\n• API Integration Status Dashboard with real-time connectivity probe\n• Automated SQLite pre-migration backup & database safety",
-  "installer_args": [
-    "/CLOSEAPPLICATIONS",
-    "/FORCECLOSEAPPLICATIONS"
-  ]
+    "version":  "1.1.3",
+    "latest_version":  "1.1.3",
+    "build_number":  5,
+    "min_supported_version":  "1.0.0",
+    "release_date":  "2026-11-02",
+    "release_type":  "minor",
+    "mandatory":  false,
+    "windows_installer_url":  "https://github.com/MICHITI/jcm_finance_tracker_releases/releases/download/v1.1.3/JMC_Finance_Tracker_Setup.exe",
+    "windows_sha256":  "0a9b8e1daede238c48607b9fc53782bacebc66447a382a672839782192325663",
+    "android_apk_url":  "https://github.com/MICHITI/jcm_finance_tracker_releases/releases/download/v1.1.3/jcm_finance_tracker_latest.apk",
+    "android_sha256":  "a9050542dfb633bd2d3c54eac7a936d891f8c438b30fd95e174c692e57892aa2",
+    "installer_url":  "https://github.com/MICHITI/jcm_finance_tracker_releases/releases/download/v1.1.3/JMC_Finance_Tracker_Setup.exe",
+    "download_url":  "https://github.com/MICHITI/jcm_finance_tracker_releases/releases/download/v1.1.3/JMC_Finance_Tracker_Setup.exe",
+    "sha256":  "0a9b8e1daede238c48607b9fc53782bacebc66447a382a672839782192325663",
+    "release_notes":  "• Direct auto-update from v1.1.1 to v1.1.3 for Android and Windows\n• Finance Dashboard Quick Actions redesign matching Shop Management styling with colorful filled buttons\n• Dedicated Software Update option for Employee and Shop Manager roles on Dashboard and Settings\n• My Loans testing records review tool \u0026 bulk delete with permanent cloud deletion enqueuing\n• Employee Salary History, Increment Management, and Promotion Tracking with non-retroactive historical monthly salary resolution",
+    "installer_args":  [
+                           "/CLOSEAPPLICATIONS",
+                           "/FORCECLOSEAPPLICATIONS"
+                       ]
 }
