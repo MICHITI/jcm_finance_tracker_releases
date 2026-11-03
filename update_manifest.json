@@ -13,7 +13,7 @@
   "installer_url": "https://github.com/MICHITI/jcm_finance_tracker_releases/releases/download/v1.1.12/JMC_Finance_Tracker_Setup.exe",
   "download_url": "https://github.com/MICHITI/jcm_finance_tracker_releases/releases/download/v1.1.12/JMC_Finance_Tracker_Setup.exe",
   "sha256": "c3cbeb33325444d2c41b04a43fac90fe98aea607a13027a055c50b37b54b30ab",
-  "release_notes": "Official Production Release of JMC Finance Tracker v1.1.12 (Build 14)\n\nChanges:\n• chore(release): bump version to 1.1.12+14 [skip ci] • fix(attendance): run automatic check-out in background to prevent control panel UI lag",
+  "release_notes": "Official Production Release of JMC Finance Tracker v1.1.12 (Build 14)\n\nChanges:\n\u2022 Mandatory check-in selfie with cloud sync\n\u2022 Exclude test employee from attendance reports and dashboard stats\n\u2022 Responsive stock request card layout for all mobile screen sizes\n\u2022 Background automatic check-out to eliminate control panel UI lag",
   "installer_args": [
     "/CLOSEAPPLICATIONS",
     "/FORCECLOSEAPPLICATIONS"
